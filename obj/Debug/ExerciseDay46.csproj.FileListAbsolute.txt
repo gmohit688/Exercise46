@@ -77,3 +77,7 @@ C:\Users\gmohi\source\repos\ExerciseDay46\ExerciseDay46\obj\Debug\ExerciseDay46.
 C:\Users\gmohi\source\repos\ExerciseDay46\ExerciseDay46\obj\Debug\ExerciseDay46.csproj.CopyComplete
 C:\Users\gmohi\source\repos\ExerciseDay46\ExerciseDay46\obj\Debug\ExerciseDay46.dll
 C:\Users\gmohi\source\repos\ExerciseDay46\ExerciseDay46\obj\Debug\ExerciseDay46.pdb
+C:\Users\gmohi\source\repos\ExerciseDay46\ExerciseDay46\bin\EntityFramework.dll
+C:\Users\gmohi\source\repos\ExerciseDay46\ExerciseDay46\bin\EntityFramework.SqlServer.dll
+C:\Users\gmohi\source\repos\ExerciseDay46\ExerciseDay46\bin\EntityFramework.xml
+C:\Users\gmohi\source\repos\ExerciseDay46\ExerciseDay46\bin\EntityFramework.SqlServer.xml
